@@ -1,1 +1,2 @@
 # Cryptocurrencies
+This repository contains an unsupervised machine learning project, focused on cryptocurrencies. We used principle component analysis, kmeans clustering, etc. to glean out the import bits of information with respect to total coins mined and algorithmic effciency. In the first section, we preprocessed our data for PCA, followed by dimensionality rediction via PCA. In the third section, we used Kmeans clustering and finished with some visualizations. 
